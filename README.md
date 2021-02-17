@@ -6,11 +6,11 @@ Si vous avez des questions, n'hésitez pas a me contacer **sur riot.com @eban:gn
 
 ### Je veux supprimer une donnée personelle me concernant sur internet ❌
 
-- J'ai plus de 15 ans
+- J'ai 15 ans ou plus
   - Oui : [Suite ici](./delete.md)
   - Non : [Suite ici](./under15years.md)
 
-### Bon a savoir :
+### Bon à savoir :
 
 - En France, l'âge légal `numérique` est de 15ans, vous pouvez donc exercer votre droit a l'oubli sans l'aval de vos tuteurs légaux a partir de 15ans
 
