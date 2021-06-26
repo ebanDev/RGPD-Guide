@@ -5,7 +5,7 @@
 <br>
 
 ```
-N'ayant recu de réponse de votre part, je vous informe que j'ai saisit ce jour la Commission nationale de l’informatique et des libertés (CNIL) d’une réclamation.
+N'ayant recu de réponse de votre part, je vous informe que j'ai saisi ce jour la Commission nationale de l’informatique et des libertés (CNIL) d’une réclamation.
 ```
 
 <br>
